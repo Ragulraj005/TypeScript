@@ -15,3 +15,4 @@ switch (userDirection) {
     console.log("Moving Up");
     break;
   case Direction.Down:
+    console.log("Moving down")
